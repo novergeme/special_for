@@ -1,0 +1,6 @@
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\bin\Debug\Gfigure.dll
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\bin\Debug\Gfigure.pdb
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\obj\Debug\Gfigure.csprojAssemblyReference.cache
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\obj\Debug\Gfigure.csproj.CoreCompileInputs.cache
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\obj\Debug\Gfigure.dll
+C:\Users\novergeme\source\repos\Gfigure\Gfigure\obj\Debug\Gfigure.pdb
