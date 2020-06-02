@@ -158,9 +158,6 @@ namespace Gfigure
                     areaFigurein.Add(AreaQuadangle(side.ElementAt(0), side.ElementAt(1), side.ElementAt(2), side.ElementAt(3)));
                     break;
 
-                    /*в ТЗ нет конкретизированных требований куда именно добавить фигуру. Значит, легкостью добавления
-                      другой фигуры будет являть добвление в следущую конструкцию case N: */
-
             }
 
             //общая площадь заданного многоугольника
